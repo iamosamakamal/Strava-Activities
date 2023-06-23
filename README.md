@@ -2,7 +2,7 @@
 
 These are some statistical visualizations to my Strava Activities.
 
-Strava is a sports tracking app, I mostly use for my rides, swims and runs.
+Strava is a sports tracking app, I mostly use it for my rides, swims and runs.
 
 The left hand side of the dashboard is for rides only, the right hand side is for swim-ride-run activities.
 
